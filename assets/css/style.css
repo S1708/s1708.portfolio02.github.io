@@ -30,7 +30,7 @@ body {
 .container--intro {
 	width: 100%;
 	max-width: 1230px;
-	padding: 15px 0 15px 0;
+	padding: 0;
 	margin: 0 auto;
 }
 
